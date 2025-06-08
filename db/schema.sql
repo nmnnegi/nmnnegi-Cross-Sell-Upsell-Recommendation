@@ -1,0 +1,20 @@
+CREATE TABLE customer_purchases (
+    customer_id TEXT,
+    product TEXT,
+    quantity INT,
+    unit_price NUMERIC,
+    total_price NUMERIC,
+    purchase_date DATE,
+    customer_name TEXT,
+    industry TEXT,
+    annual_revenue NUMERIC,
+    number_of_employees INT,
+    customer_priority TEXT,
+    account_type TEXT,
+    location TEXT,
+    current_products TEXT,
+    product_usage INT,
+    cross_sell_synergy TEXT,
+    last_activity DATE,
+    opportunity_stage TEXT
+);
