@@ -4,6 +4,9 @@ This project builds a modular LangGraph agent system that analyzes customer purc
 
 ---
 
+![OutPut](op.png)
+
+
 ## 🚀 Features
 
 - Modular agent-based analysis using LangGraph
