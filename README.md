@@ -47,8 +47,7 @@ langgraph_crosssell/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/langgraph_crosssell.git
-cd langgraph_crosssell
+git clone https://github.com/nmnnegi/nmnnegi-Cross-Sell-Upsell-Recommendation.git
 ```
 
 ### 2. Set up a virtual environment
