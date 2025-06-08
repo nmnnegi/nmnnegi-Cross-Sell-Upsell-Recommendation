@@ -4,6 +4,8 @@ This project builds a modular LangGraph agent system that analyzes customer purc
 
 ---
 
+![Main](main.png)
+
 ![OutPut](op.png)
 
 
@@ -134,6 +136,8 @@ http://127.0.0.1:8000/recommendation?customer_id=C003
 | ReportGeneratorAgent    | Converts scores into a natural-language research report   |
 
 ---
+
+![OutPut](dg.png)
 
 ## 💪 Example Customer IDs (from `sample_data.sql`)
 
